@@ -10,7 +10,7 @@ export default function App() {
       <div className='header-info-container'>
         <img src={foto} alt="foto-portafolio" />
         <h1>Jaime Sánchez</h1>
-        <h3>Full-Stack Developer</h3>
+        <h3>Back-End Developer</h3>
         <a href="https://github.com/josanchezm" target="_blank">https://github.com/josanchezm</a>
       </div>
       <div className="header-buttons-container">
